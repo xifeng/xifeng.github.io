@@ -5,11 +5,11 @@
 # Site
 title: xifeng'blog
 subtitle:
-description: 个人博客
+description: personal blog
 keywords:
 author: xifeng
-language: zh-CN
-timezone: asia/shanghai
+language: en-US
+timezone: America/Mexico_City
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
