@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>xifeng&#39;blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https:/xifeng.github.io/"/>
+  <updated>2019-09-03T11:09:49.007Z</updated>
+  <id>https:/xifeng.github.io/</id>
+  
+  <author>
+    <name>xifeng</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="https:/xifeng.github.io/other/hello-world"/>
+    <id>https:/xifeng.github.io/other/hello-world</id>
+    <published>2019-07-27T21:56:41.000Z</published>
+    <updated>2019-09-03T11:09:49.007Z</updated>
+    
+    <content type="html"><![CDATA[<p>做一些日常技术积累</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;做一些日常技术积累&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="other" scheme="https:/xifeng.github.io/categories/other/"/>
+    
+    
+      <category term="other" scheme="https:/xifeng.github.io/tags/other/"/>
+    
+  </entry>
+  
+</feed>
